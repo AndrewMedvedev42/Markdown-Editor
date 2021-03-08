@@ -1,6 +1,6 @@
 # Markdown-Editor
 
-Markdown is a version markup language for converting code into HTML. Markdown is not a replacement for HTML. Markdown syntax is quite limited and matches only a small subset of HTML elements.
+Markdown is a version markup language for converting code into HTML. Markdown is not a replacement for HTML. Markdown syntax is quite limited and matches only a small subset of HTML elements. List of avalible lists valible element:
 
 
 
@@ -18,32 +18,32 @@ Markdown is a version markup language for converting code into HTML. Markdown is
 
 	    1.	Apple
         2.	Pear
-        3.	Orange >
+        3.	Orange 
         
         Unordered list
 
-      < * Apple
+        * Apple
         * Pear
-        * Orange >
+        * Orange 
 -
 ### Horizontal lines:
-	     <First part of text
+	     First part of text
          ***
-         Second part of text>
+         Second part of text
 
 **or**
  
-         <First part of text
+         First part of text
          ---
-         Second part of text>
+         Second part of text
 -
 ### Hyper Link:
-	     <[Google](https://www.google.com/)>
+	     [Google](https://www.google.com/)
 -
 ### Highlight Text;
-	     <*Light Text*
+	     *Light Text*
 	     **Strong Text**
-         ***Italic Text***>
+         ***Italic Text***
 -
 ### Image:
-         <![Alt text](Image Addres)>
+         ![Alt text](Image Addres)
