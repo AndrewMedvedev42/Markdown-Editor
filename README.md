@@ -1,12 +1,12 @@
 # Markdown-Editor
 
-Markdown is a version markup language for converting code to HTML. Markdown is not a replacement for HTML. Markdown syntax is quite limited and matches only a small subset of HTML elements.
+Markdown is a version markup language for converting code into HTML. Markdown is not a replacement for HTML. Markdown syntax is quite limited and matches only a small subset of HTML elements.
 
 -
 ### Heading:
-        <# First level heading
+      < # First level heading
         ### Third-level heading
-        ###### Sixth level heading
+        ###### Sixth level heading >
 -
 ### Quotes:
         < >Example of quote >
