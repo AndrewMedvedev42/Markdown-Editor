@@ -2,27 +2,29 @@
 
 Markdown is a version markup language for converting code into HTML. Markdown is not a replacement for HTML. Markdown syntax is quite limited and matches only a small subset of HTML elements.
 
+
+
 -
 ### Heading:
-      < # First level heading
+        # First level heading
         ### Third-level heading
-        ###### Sixth level heading >
+        ###### Sixth level heading
 -
 ### Quotes:
-        < >Example of quote >
+        >Example of quote
 -
 ### List:
-        Ordered list:
+    Ordered list:
 
-	    <1.	Apple
+	    1.	Apple
         2.	Pear
-        3.	Orange>
+        3.	Orange >
         
         Unordered list
 
-        <* Apple
+      < * Apple
         * Pear
-        * Orange>
+        * Orange >
 -
 ### Horizontal lines:
 	     <First part of text
