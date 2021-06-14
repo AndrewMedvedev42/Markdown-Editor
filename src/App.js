@@ -9,6 +9,7 @@ function App() {
 
   return (
     <main>
+      <h1 className="title">Markdown Editor</h1>
       <section className='markdown'>
         <textarea className='input' value={markdown} onChange={(e) => setMarkdown(e.target.value)}></textarea>
         <article className='result'>

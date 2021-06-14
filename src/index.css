@@ -142,3 +142,9 @@ blockquote ::first-letter {
 ul{
   list-style-type: disc;
 }
+
+.title{
+  color:#854929;
+  margin: 2rem;
+  text-align: center;
+}
